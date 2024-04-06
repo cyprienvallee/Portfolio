@@ -1,35 +1,26 @@
 ---
-title: Markdown Mystery Tour
+title: Donj'O et Drag'O
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/Page-accueil-site.png
+img_alt: Page accueil site Donj'O et Drag'O
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Un site fait pour le jeu de rôle en ligne
 tags:
   - Design
   - Dev
-  - User Testing
+  - Test
 ---
 
-## Level-two heading
+## Le projet 
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+Ce projet a été réalisé à  la fin de mes 6 mois de formations, afin de pouvoir le présenter pour le passage du titre professionel.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+### Le but 
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+Ce projet fut conçu afin de pouvoir jouer aux jeux de rôles en ligne, comme ça plus besoin de se déplacer et voir du monde pour pouvoir jouer avec vos amis !
 
-### Level-three heading
+### Projet de groupe
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
-
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+Je me suis vu accordé les rôles de Scrum Master et de Lead dev Back durant ce projet.
+ - En tant que Scrum Master mon travail fut de veiller à ce que les technologies utilisées pour ce projet ont été respectées et de rapporter les travaux fait la veille pendant la réunion du matin.
+ - En tant que Lead Dev Back, je faisais évidemment du code pour les fonctionnalités liées au back, et j'ai épaulé mon collègue pour des conseils ou des questions sur le back.
